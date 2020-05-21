@@ -1,7 +1,7 @@
 # Sentiment Analysis for Amazon Baby-Products
 Here I have built two models  
-a) Based on count of all the words (Word_count_model.py)  
-b) Based on count of some selected words (Selected_words_model.py)  
+a) Based on count of all the words (Word_count_model.ipynb)  
+b) Based on count of some selected words (Selected_words_model.ipynb)  
 # Requirements
 Graphlab Create  
 Anaconda2  
